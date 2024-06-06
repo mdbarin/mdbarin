@@ -17,7 +17,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 ## Programming skills
 ![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch,github,octave)
 ## Web development skills
-![Web development](https://skillicons.dev/icons?i=js,html,css,jquery,redis,bootstrap,aj,django,postgresql)
+![Web development](https://skillicons.dev/icons?i=js,html,css,jquery,redis,bootstrap,react,django,postgresql)
 
 
 ## 🌱 Currently Exploring
