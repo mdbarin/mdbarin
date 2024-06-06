@@ -15,7 +15,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,Python,Postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,Postgresql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
