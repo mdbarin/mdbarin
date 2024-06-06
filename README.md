@@ -36,9 +36,8 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
+- Connect with me on [Linkedin](https://www.linkedin.com/in/mdaminpanah/)
+- mohammad.amin@univ-lyon1.fr
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
