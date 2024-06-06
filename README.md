@@ -15,7 +15,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 
 ## Tech Stack
-![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch)](https://skillicons.dev)
+![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch)]
 
 
 ## 🌱 Currently Exploring
