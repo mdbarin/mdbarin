@@ -15,7 +15,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 
 ## Programming skills
-![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch)
+![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch,github,octave)
 ## Web development skills
 ![Web development](https://skillicons.dev/icons?i=js,html,css,jquery,redis,bootstrap,django,postgresql)
 
@@ -29,9 +29,9 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+ ## Workshops
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- Please take a glance at the related section of my ![Linkedin](https://www.linkedin.com/in/mdaminpanah/)
 
 
 ## 📬 Get in Touch
