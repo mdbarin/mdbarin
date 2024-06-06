@@ -6,13 +6,12 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 ## 🚀 About Me
 
-- 🔭 I'm currently a research engineer at the university of Claude Branrd Lyon1 ![UCBL](https://www.univ-lyon1.fr/).
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently a research engineer at the university of Claude Branrd Lyon1 (![UCBL](https://www.univ-lyon1.fr/)).
+- 📝 In the framework of a Project so-called Distributed Acoustic Sensing Auvergne Rhône Alpes (![DASARA](https://dasara.univ-lyon1.fr/)), I am working on providing a fully-automatized Python package for processing and visualizing the DAS data tailored to Structural Health Monitoring.
+- 🌐 Proud member of the [DASARA Team](https://dasara.univ-lyon1.fr/team/).
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- Please refer to this page [Our team's publiocations](https://dasara.univ-lyon1.fr/publications/)
 
 
 ## Tech Stack
