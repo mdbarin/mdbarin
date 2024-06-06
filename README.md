@@ -14,8 +14,10 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 - Please refer to this page [Our team's publiocations](https://dasara.univ-lyon1.fr/publications/)
 
 
-## Tech Stack
-![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch)]
+## Programming skills
+![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch)
+## Web development skills
+![Web development](https://skillicons.dev/icons?i=js,html,css,jquery,redis,bootstrap,django,postgresql)(https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
