@@ -38,6 +38,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/mdaminpanah/)
 - mohammad.amin@univ-lyon1.fr
+- mohammadaminpanah@gmail.com
 
   
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
