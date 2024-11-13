@@ -32,9 +32,9 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Exploring Webgis.
+  - APIs like Geoserver and Mapserver
+  - Perl
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
   - Deepening my expertise in Docker and Kubernetes
