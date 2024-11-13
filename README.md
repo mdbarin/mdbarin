@@ -28,6 +28,7 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
+  - Deepening my expertise in Docker and Kubernetes
 
  ## Workshops
 
