@@ -13,6 +13,15 @@ I am a passionate engineer at the University of Claude Bernard Lyon1 (UCBL), dri
 ## My Articles
 - Please refer to this page [Our team's publiocations](https://dasara.univ-lyon1.fr/publications/)
 
+## My academic background
+- Signal processing
+- Seismology
+- Numerical modeling (Finite Difference, etc)
+- Inverse theory
+- Machine Learning
+- Linear Algebra
+- Optimization
+
 
 ## Programming skills
 ![Scientific computation](https://skillicons.dev/icons?i=js,anaconda,bash,fortran,py,pytorch,github,octave,docker)
